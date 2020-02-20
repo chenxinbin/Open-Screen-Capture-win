@@ -1,0 +1,9 @@
+C:\Users\xinbin\source\repos\OpenScreenCapture\OpenScreenCapture\bin\Debug\OpenScreenCapture.exe.config
+C:\Users\xinbin\source\repos\OpenScreenCapture\OpenScreenCapture\bin\Debug\OpenScreenCapture.exe
+C:\Users\xinbin\source\repos\OpenScreenCapture\OpenScreenCapture\bin\Debug\OpenScreenCapture.pdb
+C:\Users\xinbin\source\repos\OpenScreenCapture\OpenScreenCapture\obj\Debug\OpenScreenCapture.csprojAssemblyReference.cache
+C:\Users\xinbin\source\repos\OpenScreenCapture\OpenScreenCapture\obj\Debug\OpenScreenCapture.Form1.resources
+C:\Users\xinbin\source\repos\OpenScreenCapture\OpenScreenCapture\obj\Debug\OpenScreenCapture.Properties.Resources.resources
+C:\Users\xinbin\source\repos\OpenScreenCapture\OpenScreenCapture\obj\Debug\OpenScreenCapture.csproj.GenerateResource.cache
+C:\Users\xinbin\source\repos\OpenScreenCapture\OpenScreenCapture\obj\Debug\OpenScreenCapture.exe
+C:\Users\xinbin\source\repos\OpenScreenCapture\OpenScreenCapture\obj\Debug\OpenScreenCapture.pdb
